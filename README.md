@@ -4,13 +4,13 @@ To create a comprehensive weekly dashboard for credit card operations, providing
 
 
 
-#### Tools used: 
+### Tools used: 
 
 1. MySQL, Microsoft Excel, Microsoft Power BI
 
 
 
-#### Steps:
+### Steps:
 
 1. Import Data in MySQL server
 
